@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-using TMPro;
+using TMProUGUI;
 
 public class EnvMapAnimator : MonoBehaviour {
 

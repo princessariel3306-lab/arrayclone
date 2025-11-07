@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace TMPro.Examples
+namespace TMProUGUI.Examples
 {
     public class TMP_TextEventCheck : MonoBehaviour
     {

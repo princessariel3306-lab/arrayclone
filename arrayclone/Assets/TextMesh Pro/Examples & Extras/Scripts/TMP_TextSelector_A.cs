@@ -3,7 +3,7 @@ using UnityEngine.EventSystems;
 using System.Collections;
 
 
-namespace TMPro.Examples
+namespace TMProUGUI.Examples
 {
 
     public class TMP_TextSelector_A : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler

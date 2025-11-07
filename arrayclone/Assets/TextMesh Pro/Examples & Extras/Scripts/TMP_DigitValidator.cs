@@ -2,7 +2,7 @@
 using System;
 
 
-namespace TMPro
+namespace TMProUGUI
 {
     /// <summary>
     /// EXample of a Custom Character Input Validator to only allow digits from 0 to 9.

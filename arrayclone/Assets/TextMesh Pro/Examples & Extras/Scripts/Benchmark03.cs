@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.TextCore.LowLevel;
 
 
-namespace TMPro.Examples
+namespace TMProUGUI.Examples
 {
 
     public class Benchmark03 : MonoBehaviour

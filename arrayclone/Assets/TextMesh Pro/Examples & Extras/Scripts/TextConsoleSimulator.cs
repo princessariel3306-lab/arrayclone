@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 
 
-namespace TMPro.Examples
+namespace TMProUGUI.Examples
 {
     public class TextConsoleSimulator : MonoBehaviour
     {

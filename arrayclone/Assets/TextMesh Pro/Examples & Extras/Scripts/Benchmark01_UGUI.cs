@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 
 
-namespace TMPro.Examples
+namespace TMProUGUI.Examples
 {
     
     public class Benchmark01_UGUI : MonoBehaviour

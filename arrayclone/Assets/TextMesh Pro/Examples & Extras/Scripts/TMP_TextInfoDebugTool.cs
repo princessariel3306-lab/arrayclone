@@ -4,7 +4,7 @@ using System.Collections;
 using UnityEditor;
 
 
-namespace TMPro.Examples
+namespace TMProUGUI.Examples
 {
 
     public class TMP_TextInfoDebugTool : MonoBehaviour

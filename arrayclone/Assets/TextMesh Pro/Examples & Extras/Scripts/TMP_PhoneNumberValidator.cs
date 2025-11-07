@@ -2,7 +2,7 @@
 using System.Collections;
 using System;
 
-namespace TMPro
+namespace TMProUGUI
 {
     /// <summary>
     /// Example of a Custom Character Input Validator to only allow phone number in the (800) 555-1212 format.
