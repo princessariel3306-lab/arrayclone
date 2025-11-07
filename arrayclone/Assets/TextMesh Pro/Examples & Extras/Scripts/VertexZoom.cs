@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 
-namespace TMProUGUI.Examples
+namespace TMPro.Examples
 {
 
     public class VertexZoom : MonoBehaviour

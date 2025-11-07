@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using TMProUGUI;
+using TMPro;
 
 public class ChatController : MonoBehaviour {
 

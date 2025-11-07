@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using TMProUGUI;
+using TMPro;
 
 
 public class Manager : MonoBehaviour
 {
-    public Text Result;
+    public TextMeshProUGUI Result;
     public Image AiChoice;
     public string[] Choices;
     public Sprite Rock, Paper, Scissors;

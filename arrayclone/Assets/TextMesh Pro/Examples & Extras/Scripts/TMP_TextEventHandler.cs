@@ -4,7 +4,7 @@ using UnityEngine.EventSystems;
 using System;
 
 
-namespace TMProUGUI
+namespace TMPro
 {
 
     public class TMP_TextEventHandler : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler

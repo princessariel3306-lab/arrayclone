@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
-using TMProUGUI;
+using TMPro;
 
 
-namespace TMProUGUI.Examples
+namespace TMPro.Examples
 {
 
     public class TMP_ExampleScript_01 : MonoBehaviour

@@ -1,4 +1,4 @@
-﻿using TMProUGUI;
+﻿using TMPro;
 using UnityEngine;
 
 public class DropdownSample: MonoBehaviour

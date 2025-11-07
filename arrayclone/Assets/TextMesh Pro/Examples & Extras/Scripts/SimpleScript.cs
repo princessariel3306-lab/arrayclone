@@ -2,7 +2,7 @@
 using System.Collections;
 
 
-namespace TMProUGUI.Examples
+namespace TMPro.Examples
 {
     
     public class SimpleScript : MonoBehaviour
